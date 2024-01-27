@@ -1,0 +1,26 @@
+Privacy Policy for Online-Git File Reader
+
+Introduction
+Welcome to the Privacy Policy for the Online-Git File Reader. This document outlines our practices regarding the collection, use, and disclosure of personal information (if any) when you utilize our service. 
+The Online-Git File Reader is designed to assist users in accessing and reading files from GitHub repositories, aiming to provide this service without collecting personal data from its users.
+
+No Personal Data Collection
+The Online-Git File Reader does not collect any personal data. Our service is structured to offer assistance in reading GitHub files without necessitating the collection, storage, or processing of personal information from our users.
+
+Usage Data
+No usage data that could be used to identify individuals is stored or logged by the Online-Git File Reader. Interactions with our service are intended to be purely informational, without any form of tracking or recording.
+
+Third-Party Services
+In providing its functionality, the Online-Git File Reader may interact with the GitHub API to access data from public repositories. It is important to note that we do not govern the privacy practices of GitHub or any third-party services linked with it. 
+Users are encouraged to consult the privacy policies of these third-party services for further information.
+
+Changes to This Privacy Policy
+Our Privacy Policy may undergo amendments from time to time. Any modifications will be communicated through the update of this document on our platform. Users are encouraged to periodically review this Privacy Policy to stay informed of any changes.
+
+Contact Us
+This Privacy Policy is effective as of 19th October 2023 and will continue to apply except with respect to any future amendments to its terms, which will become effective immediately upon being made available on this page.
+Should you have any inquiries regarding this Privacy Policy, please feel free to reach out to us.
+
+John Mosquera
+https://www.linkedin.com/in/johnmosquera/
+Contact email: dftopcat@gmail.com
