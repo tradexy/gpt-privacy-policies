@@ -1,1 +1,32 @@
-Empty
+Privacy Policy for Search Klarna Products GPT
+
+Introduction
+Welcome to the Privacy Policy for the "Search Klarna Products" GPT. This policy is designed to inform users about our practices regarding the collection, use, and disclosure of personal information when you use our service. 
+The primary function of our GPT is to assist users in finding products and generating product images from Klarna's database, all while prioritizing user privacy and data protection.
+
+No Personal Data Collection
+We do not collect any personal data from users of the "Search Klarna Products" GPT. Our service is designed to provide product information and generate images without the need to collect, store, or process personal information from our users.
+
+Product Search and Image Generation
+The "Search Klarna Products" GPT may assist users in searching for a wide range of products based on various criteria such as type, brand, price range, and more. 
+It also has the unique capability to generate images of these products using DALL-E, providing visual representations of the items users are interested in. 
+While we strive to provide accurate and relevant product information, it's important to note that the GPT relies on publicly available product data from Klarna, and we cannot guarantee the accuracy or availability of specific products or pricing.
+
+Usage Data
+The GPT does not store or log any usage data that can be personally identifiable. Interactions with the GPT are designed to be informational and are not tracked or recorded for the purpose of identifying users or their preferences.
+
+Third-Party Data Sources
+Our GPT utilizes publicly accessible product data from Klarna's database. We do not control the privacy practices of Klarna or any third-party services integrated into our platform. 
+We encourage you to review Klarna's privacy policies for more information about their data practices.
+
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time to reflect changes in our services or legal requirements. We will notify you of any changes by posting the new Privacy Policy on this page, and the updated policy will become effective immediately upon posting. 
+We advise you to review this Privacy Policy periodically for any changes.
+
+Contact Us
+This Privacy Policy is effective as of 19th October 2023 and will remain in effect unless revised as described above. 
+If you have any questions about this Privacy Policy or the "Search Klarna Products" GPT, please contact us.
+
+John Mosquera
+https://www.linkedin.com/in/johnmosquera/
+Contact email: dftopcat@gmail.com
