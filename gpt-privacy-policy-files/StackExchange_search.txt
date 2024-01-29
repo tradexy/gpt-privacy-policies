@@ -1,0 +1,33 @@
+Privacy Policy for StackExchange Search GPT
+
+Introduction
+Welcome to the Privacy Policy for the "StackExchange Search" GPT. This document outlines our commitment to protecting the privacy of users engaging with our service, designed to facilitate the search of various topics across StackExchange boards. 
+We prioritize transparency and data protection while providing an efficient search tool.
+
+No Personal Data Collection
+The "StackExchange Search" GPT is engineered to execute searches and provide information without collecting, storing, or processing any personal data from its users. 
+Our service is structured to ensure privacy and security, focusing solely on delivering relevant search results.
+
+Search Functionality
+Our GPT aids users in exploring a wide array of subjects on StackExchange, from technical queries to general knowledge questions. 
+It interprets and suggests relevant threads or documentation based on user queries. 
+Please note that while we aim for accuracy, the GPT operates on available data from StackExchange platforms, and we cannot ensure the precision or the currentness of the information provided.
+
+Usage Data
+We do not track or store identifiable usage data. Interactions with our GPT are designed to be purely informational, without any form of user tracking or data logging that could compromise privacy.
+
+Third-Party Data Sources
+The "StackExchange Search" GPT utilizes publicly available data from StackExchange's network of sites. We do not govern the data practices of StackExchange or any third-party services. 
+Users are encouraged to review the privacy policies of StackExchange for detailed information on their data handling procedures.
+
+Changes to This Privacy Policy
+Our Privacy Policy may be revised over time to align with changes in our services or legal obligations. Any amendments will be communicated through an updated policy posted on this page. 
+We recommend users review this policy periodically to stay informed of any changes.
+
+Contact Us
+This Privacy Policy is effective as of 19th October 2023 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. 
+For any inquiries or concerns regarding this Privacy Policy or the "StackExchange Search" GPT, please contact us.
+
+John Mosquera
+https://www.linkedin.com/in/johnmosquera/
+Contact email: dftopcat@gmail.com
