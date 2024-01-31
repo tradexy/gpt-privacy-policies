@@ -1,0 +1,23 @@
+Privacy Policy for Search UK Companies GPT
+
+Introduction
+Welcome to the Privacy Policy for the "Search UK Companies" GPT. 
+This policy explains our practices regarding the collection, use, and disclosure of information when you use our service, focusing on UK companies' data via the Companies House API, without collecting personal data from users.
+
+No Personal Data Collection
+We do not collect personal data from users. This service is designed to provide UK company information without needing to collect, store, or process personal information.
+
+Usage Data
+No usage data that can identify users is stored or logged. Interactions are for informational purposes and are not tracked.
+
+Third-Party Services
+We use publicly accessible data from the Companies House API. We encourage reviewing their privacy policies for their data practices.
+
+Changes and Contact
+We may update this policy, posting changes on this page.
+
+This Privacy Policy is effective as of 19th December 2023. If you have any questions or concerns, please contact us.
+
+John Mosquera
+https://www.linkedin.com/in/johnmosquera/
+Contact email: dftopcat@gmail.com
