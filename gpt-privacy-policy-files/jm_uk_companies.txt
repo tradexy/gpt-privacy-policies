@@ -1,7 +1,7 @@
-Privacy Policy for Search UK Companies GPT
+Privacy Policy for UK Companies GPT
 
 Introduction
-Welcome to the Privacy Policy for the "Search UK Companies" GPT. 
+Welcome to the Privacy Policy for the "UK Companies" GPT. 
 This policy explains our practices regarding the collection, use, and disclosure of information when you use our service, focusing on UK companies' data via the Companies House API, without collecting personal data from users.
 
 No Personal Data Collection
